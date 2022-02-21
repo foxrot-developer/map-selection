@@ -1,0 +1,252 @@
+[
+    {
+        "Name": "LA-1",
+        "Latitude": 55.85274,
+        "Longitude": -121.30982
+    },
+    {
+        "Name": "LA-2",
+        "Latitude": 55.85306,
+        "Longitude": -121.32206
+    },
+    {
+        "Name": "LA-3",
+        "Latitude": 55.85514,
+        "Longitude": -121.32036
+    },
+    {
+        "Name": "LA-4",
+        "Latitude": 55.85092,
+        "Longitude": -121.30761
+    },
+    {
+        "Name": "LA-5",
+        "Latitude": 55.84636,
+        "Longitude": -121.30647
+    },
+    {
+        "Name": "LA-6",
+        "Latitude": 55.93778,
+        "Longitude": -121.34261
+    },
+    {
+        "Name": "LA-7",
+        "Latitude": 55.83489,
+        "Longitude": -121.31571
+    },
+    {
+        "Name": "LA-8",
+        "Latitude": 55.85103,
+        "Longitude": -121.32704
+    },
+    {
+        "Name": "LA-9",
+        "Latitude": 55.83972,
+        "Longitude": -121.30271
+    },
+    {
+        "Name": "LA-10",
+        "Latitude": 55.83083,
+        "Longitude": -121.31917
+    },
+    {
+        "Name": "LA-11",
+        "Latitude": 55.84942,
+        "Longitude": -121.31547
+    },
+    {
+        "Name": "LA-12",
+        "Latitude": 55.84316,
+        "Longitude": -121.31218
+    },
+    {
+        "Name": "LA-13",
+        "Latitude": 55.83333,
+        "Longitude": -121.29833
+    },
+    {
+        "Name": "LA-14",
+        "Latitude": 55.84823,
+        "Longitude": -121.32907
+    },
+    {
+        "Name": "LA-15",
+        "Latitude": 55.83639,
+        "Longitude": -121.32587
+    },
+    {
+        "Name": "LA-16",
+        "Latitude": 55.84905,
+        "Longitude": -121.32186
+    },
+    {
+        "Name": "LA-17",
+        "Latitude": 55.85246,
+        "Longitude": -121.30982
+    },
+    {
+        "Name": "LA-18",
+        "Latitude": 55.84909,
+        "Longitude": -121.32186
+    },
+    {
+        "Name": "LA-19",
+        "Latitude": 55.85233,
+        "Longitude": -121.32141
+    },
+    {
+        "Name": "LA-20",
+        "Latitude": 55.8501144,
+        "Longitude": -121.3191873
+    },
+    {
+        "Name": "LA-21",
+        "Latitude": 55.8509337,
+        "Longitude": -121.3168871
+    },
+    {
+        "Name": "LA-22",
+        "Latitude": 55.8478439,
+        "Longitude": -121.3173204
+    },
+    {
+        "Name": "LA-23",
+        "Latitude": 55.8430497,
+        "Longitude": -121.3272562
+    },
+    {
+        "Name": "LA-24",
+        "Latitude": 55.8428565,
+        "Longitude": -121.3214586
+    },
+    {
+        "Name": "LA-25",
+        "Latitude": 55.8410197,
+        "Longitude": -121.3107134
+    },
+    {
+        "Name": "LA-26",
+        "Latitude": 55.8465733,
+        "Longitude": -121.3079025
+    },
+    {
+        "Name": "LA-27",
+        "Latitude": 55.8536756,
+        "Longitude": -121.3124095
+    },
+    {
+        "Name": "LA-28",
+        "Latitude": 55.8371216,
+        "Longitude": -121.3051259
+    },
+    {
+        "Name": "LA-29",
+        "Latitude": 55.8465256,
+        "Longitude": -121.3147872
+    },
+    {
+        "Name": "LA-30",
+        "Latitude": 55.8436686,
+        "Longitude": -121.3056885
+    },
+    {
+        "Name": "LA-31",
+        "Latitude": 55.8501966,
+        "Longitude": -121.3078732
+    },
+    {
+        "Name": "LA-32",
+        "Latitude": 55.8403165,
+        "Longitude": -121.3236008
+    },
+    {
+        "Name": "LA-33",
+        "Latitude": 55.8369911,
+        "Longitude": -121.3108223
+    },
+    {
+        "Name": "LA-34",
+        "Latitude": 55.8563521,
+        "Longitude": -121.3155572
+    },
+    {
+        "Name": "LA-35",
+        "Latitude": 55.839607,
+        "Longitude": -121.3079453
+    },
+    {
+        "Name": "LA-36",
+        "Latitude": 55.8332065,
+        "Longitude": -121.3130792
+    },
+    {
+        "Name": "LA-37",
+        "Latitude": 55.8316848,
+        "Longitude": -121.3088074
+    },
+    {
+        "Name": "LA-38",
+        "Latitude": 55.8500788,
+        "Longitude": -121.324579
+    },
+    {
+        "Name": "LA-39",
+        "Latitude": 55.8457191,
+        "Longitude": -121.3234926
+    },
+    {
+        "Name": "LA-40",
+        "Latitude": 55.8393308,
+        "Longitude": -121.3075668
+    },
+    {
+        "Name": "LA-41",
+        "Latitude": 55.8501986,
+        "Longitude": -121.3272345
+    },
+    {
+        "Name": "LA-42",
+        "Latitude": 55.8393582,
+        "Longitude": -121.3130205
+    },
+    {
+        "Name": "LA-43",
+        "Latitude": 55.8541294,
+        "Longitude": -121.3169653
+    },
+    {
+        "Name": "LA-44",
+        "Latitude": 55.8352526,
+        "Longitude": -121.3201728
+    },
+    {
+        "Name": "LA-45",
+        "Latitude": 55.8474951,
+        "Longitude": -121.311225
+    },
+    {
+        "Name": "LA-46",
+        "Latitude": 55.8463863,
+        "Longitude": -121.3192518
+    },
+    {
+        "Name": "LA-47",
+        "Latitude": 55.8441028,
+        "Longitude": -121.3102234
+    },
+    {
+        "Name": "LA-48",
+        "Latitude": 55.8469037,
+        "Longitude": -121.3217842
+    },
+    {
+        "Name": "LA-49",
+        "Latitude": 55.8501545,
+        "Longitude": -121.3125279
+    },
+    {
+        "Name": "LA-50",
+        "Latitude": 55.8430003,
+        "Longitude": -121.3173418
+    }
+]
