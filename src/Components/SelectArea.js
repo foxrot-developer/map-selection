@@ -11,8 +11,8 @@ const SelectArea = (props) => {
         map.selectArea.enable();
 
         map.on("areaselected", (e) => {
-            // console.log(e.bounds.toBBoxString());
-            L.rectangle(e.bounds, { color: "blue", weight: 1 }).addTo(map);
+            // console.log(e.bounds);
+            // !props.selection ? L.rectangle(e.bounds, { color: "blue", weight: 1 }).addTo(map) : L.rectangle(e.bounds, { color: "transparent", weight: 0 }).addTo(map);
 
             props.Objectives.map(objective => {
                 if (e.bounds.contains([objective.Latitude, objective.Longitude])) {
@@ -21,12 +21,14 @@ const SelectArea = (props) => {
             })
         });
 
+
         const bounds = map.getBounds().pad(1);
         map.selectArea.setValidate((layerPoint) => {
             console.log(bounds.contains(this._map.layerPointToLatLng(layerPoint)));
             return bounds.contains(this._map.layerPointToLatLng(layerPoint));
         });
         map.selectArea.setValidate();
+
     }, [props, map]);
 
     return null;
